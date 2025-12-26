@@ -207,15 +207,7 @@ Potential improvements that could be added:
 - Countdown timer mode
 - History of previous sessions
 
-## License
+## Screenshot
+<img width="1074" height="481" alt="image" src="https://github.com/user-attachments/assets/ad9e7cd4-21e2-45c5-8558-2dc385af0196" />
 
-This project is created for educational purposes.
-
-## Author
-
-Created as part of a web development project.
-
-## Version
-
-Version 1.0.0
 
